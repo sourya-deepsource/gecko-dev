@@ -2,11 +2,11 @@
   "name": "sourcemapped-webpack3-babel7",
   "private": true,
   "dependencies": {
-    "@babel/core": "^7.0.0-beta.54",
-    "@babel/preset-env": "^7.0.0-beta.54",
-    "@babel/preset-flow": "^7.0.0-beta.54",
-    "@babel/plugin-proposal-class-properties": "^7.0.0-beta.54",
-    "babel-loader": "^8.0.0-beta.4",
+    "@babel/core": "7.12.9",
+    "@babel/preset-env": "7.12.7",
+    "@babel/preset-flow": "7.12.1",
+    "@babel/plugin-proposal-class-properties": "7.12.1",
+    "babel-loader": "8.2.2",
     "lodash": "^4.17.10",
     "webpack": "3"
   }
