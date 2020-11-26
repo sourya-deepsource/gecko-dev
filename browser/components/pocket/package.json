@@ -9,7 +9,7 @@
   "author": "Mozilla (https://mozilla.org/)",
   "license": "MPL-2.0",
   "devDependencies": {
-    "handlebars": "3.0.0"
+    "handlebars": "4.7.6"
   },
   "repository": "https://hg.mozilla.org/"
 }
