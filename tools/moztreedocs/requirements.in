@@ -20,7 +20,7 @@ livereload==2.6.3
 Markdown==3.2.2
 MarkupSafe==1.1.1
 mock==4.0.2
-packaging==20.4
+packaging==20.7
 parsimonious==0.7.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
