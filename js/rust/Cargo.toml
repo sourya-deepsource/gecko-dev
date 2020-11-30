@@ -48,7 +48,7 @@ bigint = ['mozjs_sys/bigint']
 path = "../src"
 
 [dependencies]
-lazy_static = "1.0"
+lazy_static = "1.4"
 libc = "0.2"
 log = "0.4"
 num-traits = "0.2"
