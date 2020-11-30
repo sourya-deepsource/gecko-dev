@@ -20,5 +20,5 @@ sha2 = "^0.8"
 storage_variant = { path = "../../../../storage/variant" }
 tempfile = "3"
 thin-vec = { version = "0.2.1", features = ["gecko-ffi"] }
-time = "0.1"
+time = "0.2"
 xpcom = { path = "../../../../xpcom/rust/xpcom" }
