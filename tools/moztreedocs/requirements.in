@@ -53,5 +53,5 @@ sphinxcontrib-mermaid==0.5.0
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 tornado==6.0.4
-urllib3==1.25.10
+urllib3==1.26.2
 zipp==3.2.0
