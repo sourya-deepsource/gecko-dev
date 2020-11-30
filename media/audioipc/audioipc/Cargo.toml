@@ -17,7 +17,7 @@ log = "0.4"
 memmap = "0.7"
 serde = "1"
 serde_derive = "1"
-tokio = "0.1"
+tokio = "0.3"
 tokio-io = "0.1"
 audio_thread_priority = "0.23.4"
 
