@@ -31,7 +31,7 @@ python-frontmatter==0.5.0
 pytz==2020.1
 PyYAML==5.3.1
 recommonmark==0.6.0
-redo==2.0.3
+redo==2.0.4
 requests==2.24.0
 rsa==4.6
 s3transfer==0.3.3
