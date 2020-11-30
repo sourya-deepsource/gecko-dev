@@ -80,7 +80,7 @@
     "css-loader": "^0.26.1",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
-    "enzyme-to-json": "3.3.5",
+    "enzyme-to-json": "3.6.1",
     "extract-text-webpack-plugin": "^3.0.2",
     "flow-bin": "0.97.0",
     "immutable": "^3.8.2",
