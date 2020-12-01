@@ -1,6 +1,6 @@
 # pip freeze > requirements.in
 alabaster==0.7.12
-Babel==2.8.0
+Babel==2.9.0
 backports-abc==0.5
 boto3==1.15.6
 botocore==1.18.6
