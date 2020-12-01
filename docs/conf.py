@@ -18,6 +18,10 @@ copybutton_prompt_is_regexp = True
 
 EXTRA_PATHS = (
     "layout/tools/reftest",
+    
+    
+    
+    
     "python/mach",
     "python/mozbuild",
     "python/mozversioncontrol",
