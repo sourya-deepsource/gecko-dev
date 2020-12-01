@@ -57,6 +57,9 @@ js_source_path = [
     "../browser/components/uitour",
     "../testing/marionette",
     "../toolkit/components/extensions",
+    
+    
+    
     "../toolkit/components/extensions/parent",
     "../toolkit/components/featuregates",
     "../toolkit/mozapps/extensions",
