@@ -38,10 +38,9 @@ attrs==19.3.0 \
     --hash=sha256:08a96c641c3a74e44eb59afb61a24f2cb9f4d7188748e76ba4bb5edfa3cb7d1c \
     --hash=sha256:f7b7ce16570fe9965acd6d30101a28f62fb4a7f9e926b3bbc9b61f8b04247e72 \
     # via aiohttp, jsonschema
-awscli==1.18.13 \
-    --hash=sha256:197a1168a2c979752bb290b09cbbf8bf836507de1b99a19431ca9b0cde8a5f81 \
-    --hash=sha256:d74c5b097fe9288147c6045974eca9dc369055aa6ccce05fb551b0b95e813213 \
-    # via -r requirements.in
+awscli==1.18.186 \
+    --hash=sha256:72f76db61131b968737037b3645f11a9da5522406eedd2bd066c46b304017146 \
+    --hash=sha256:75a533eb603a175580ab7262d7ee0f8825c03f76060501c216c6d4ae75b2a682
 backports.lzma==0.0.14 \
     --hash=sha256:16d8b68e4d3cd4e6c9ddb059850452946da3914c8a8e197a7f2b0954559f2df4 \
     # via mar
