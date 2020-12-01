@@ -45,10 +45,9 @@ awscli==1.18.13 \
 backports.lzma==0.0.14 \
     --hash=sha256:16d8b68e4d3cd4e6c9ddb059850452946da3914c8a8e197a7f2b0954559f2df4 \
     # via mar
-botocore==1.15.13 \
-    --hash=sha256:265bf5e902e2f0854f12032304f2559f5d042e03c10a59e4f3ec43353be5b88f \
-    --hash=sha256:2fce3cc8fae3bbf89984f3065d9eecf0a906b96bee491a4fb54ad7ec7f4261dc \
-    # via awscli, s3transfer
+botocore==1.19.26 \
+    --hash=sha256:034dadecf19293a15da40272073093049519575df2b438954e2da0ffb7b8279f \
+    --hash=sha256:88334b0a80416d3b662bba2067cc48afe9fd1515c3b8413d592a1933e41ce55a
 certifi==2019.11.28 \
     --hash=sha256:017c25db2a153ce562900032d5bc68e9f191e44e9a0f762f373977de9df1fbb3 \
     --hash=sha256:25b64c7da4cd7479594d035c08c2d809eb4aab3a26e5a990ea98cc450c320f1f \
